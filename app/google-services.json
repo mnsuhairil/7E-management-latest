@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "989390626536",
+    "firebase_url": "https://eleven-mobile-management-default-rtdb.firebaseio.com",
+    "project_id": "eleven-mobile-management",
+    "storage_bucket": "eleven-mobile-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989390626536:android:01cbf54205d65debe6335d",
+        "android_client_info": {
+          "package_name": "com.example.a7elevenmobilemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989390626536-g58lapgkljo6aojc1ntiedn8e57mglck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3FtBw6K8s7qbWbfO4xNp2PCileckC_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989390626536-g58lapgkljo6aojc1ntiedn8e57mglck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989390626536:android:182a44153875cc68e6335d",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989390626536-g58lapgkljo6aojc1ntiedn8e57mglck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3FtBw6K8s7qbWbfO4xNp2PCileckC_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989390626536-g58lapgkljo6aojc1ntiedn8e57mglck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989390626536:android:d27574081349f8d3e6335d",
+        "android_client_info": {
+          "package_name": "com.example.admin.sevenmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989390626536-g58lapgkljo6aojc1ntiedn8e57mglck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3FtBw6K8s7qbWbfO4xNp2PCileckC_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989390626536-g58lapgkljo6aojc1ntiedn8e57mglck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
