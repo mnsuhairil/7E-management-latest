@@ -6,7 +6,6 @@
 
     <uses-feature android:name="android.hardware.camera" />
 
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -14,19 +13,31 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.admin.sevenmanagement.ScanCodeActivitysearch"></activity>
-        <activity android:name="com.example.admin.sevenmanagement.ScanCodeActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.ScanCodeActivitydel" />
-        <activity android:name="com.example.admin.sevenmanagement.viewInventoryActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.scanItemsActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.deleteItemsActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.additemActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.dashboardActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.RegisterActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.LoginActivity" />
-        <activity android:name="com.example.admin.sevenmanagement.MainActivity" />
         <activity
-            android:name="com.example.admin.sevenmanagement.SplashsActivity"
+            android:name=".AuditingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".clockoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".clockinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".attendanceActivity"
+            android:exported="false" />
+        <activity android:name=".ScanCodeActivitysearch" />
+        <activity android:name=".ScanCodeActivity" />
+        <activity android:name=".ScanCodeActivitydel" />
+        <activity android:name=".viewInventoryActivity" />
+        <activity android:name=".scanItemsActivity" />
+        <activity android:name=".deleteItemsActivity" />
+        <activity android:name=".additemActivity" />
+        <activity android:name=".dashboardActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".SplashsActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

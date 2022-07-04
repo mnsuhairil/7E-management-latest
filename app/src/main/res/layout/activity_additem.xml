@@ -45,12 +45,12 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:textColorHint="#ffff"
         android:layout_marginBottom="-81dp"
         android:ems="10"
-        android:textColor="#ffff"
-        android:inputType="textPersonName"
         android:hint="Name"
+        android:inputType="textPersonName"
+        android:textColor="#ffff"
+        android:textColorHint="#ffff"
         tools:layout_editor_absoluteX="114dp"
         tools:layout_editor_absoluteY="211dp" />
 
@@ -60,12 +60,12 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/edititemname"
         android:layout_centerHorizontal="true"
-        android:textColorHint="#ffff"
-        android:textColor="#ffff"
         android:layout_marginBottom="-70dp"
         android:ems="10"
-        android:inputType="textPersonName"
         android:hint="Category"
+        android:inputType="textPersonName"
+        android:textColor="#ffff"
+        android:textColorHint="#ffff"
 
         tools:layout_editor_absoluteX="114dp"
         tools:layout_editor_absoluteY="211dp" />

@@ -3,7 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_additem.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_attendance.xml" value="0.2013681060282172" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_auditing.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_clockin.xml" value="0.18443002780352177" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_clockin_clockout.xml" value="0.2013681060282172" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_clockout.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_delete_items.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_login.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_main.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_scan_code.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_scan_code_activitysearch.xml" value="0.1" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_scan_items.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_splashs.xml" value="0.1" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/activity_view_inventory.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/dashboardnew.xml" value="0.1" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/dimens.xml" value="0.20949123557075675" />
+        <entry key="..\:/Users/mnsuhairil/Documents/GitHub/seven-management/app/src/main/res/layout/list_layout.xml" value="0.1" />
         <entry key="..\:/project template/Inventory-Management-Android-app-master/app/src/main/res/drawable-v24/ic_password.xml" value="0.1625" />
         <entry key="..\:/project template/Inventory-Management-Android-app-master/app/src/main/res/drawable-v24/ic_person_login.xml" value="0.1625" />
         <entry key="..\:/project template/Inventory-Management-Android-app-master/app/src/main/res/drawable-v24/ic_vpn_key_black_24dp.xml" value="0.1625" />

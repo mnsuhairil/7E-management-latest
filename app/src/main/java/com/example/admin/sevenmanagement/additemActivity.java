@@ -1,7 +1,7 @@
 package com.example.admin.sevenmanagement;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.Menu;
@@ -11,6 +11,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -71,9 +73,9 @@ public  void additem(){
         String itemcategoryValue = itemcategory.getText().toString();
         String itempriceValue = itemprice.getText().toString();
         String itembarcodeValue = itembarcode.getText().toString();
-         final FirebaseUser users = firebaseAuth.getCurrentUser();
+        final FirebaseUser users = firebaseAuth.getCurrentUser();
         String finaluser=users.getEmail();
-         String resultemail = finaluser.replace(".","");
+        String resultemail = finaluser.replace(".","");
     if (itembarcodeValue.isEmpty()) {
         itembarcode.setError("It's Empty");
         itembarcode.requestFocus();
